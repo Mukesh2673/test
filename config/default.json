@@ -8,21 +8,7 @@
     "MONGO_PASSWORD": "",
     "MONGO_PATH": "mongodb://127.0.0.1:27017"
   },
-  "SENDGRID_SETTING": {
-    "API_KEY": "",
-    "NO_REPLY": {
-      "NAME": "listing",
-      "EMAIL": "listing@geekinformatic.com"
-    },
-    "SENDER": {
-      "NAME": "listing",
-      "EMAIL": "listing@geekinformatic.com"
-    },
-    "INFO": {
-      "NAME": "listing",
-      "EMAIL": "listing@geekinformatic.com"
-    }
-  },
+
   "SMTP_SETTING": {
     "SENDER_NAME": "Listing",
     "SENDER": "customercare@listing.com",
@@ -93,14 +79,5 @@
     "INVALID_TOKEN": "Invalid Token",
     "INVALID_ID": "Invalid Id",
     "INVALID_INFORMATION": "Provide valid Information"
-  },
-  "AWS": {
-    "BUCKET": {
-      "NAME": "listing-upload",
-      "REGION": "us-east-2",
-      "ACCESS_KEY": "AKIA32SD4JKNEI3UMINJ",
-      "SECRET": "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",
-      "ENDPOINT": "https://s3.us-east-2.amazonaws.com"
-    }
   }
 }
